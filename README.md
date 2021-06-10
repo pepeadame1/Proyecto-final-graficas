@@ -2,6 +2,7 @@
 Nueva version de mi proyecto final de graficas computacionales, se cambio de repo porque se cambio el proyecto de WebGL a THREE js
 
 para correr el codigo fuente se usa el comando
+
 node index.js
 
 Los pasos para hacer esta escena fueron
