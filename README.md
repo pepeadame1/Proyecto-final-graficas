@@ -5,6 +5,9 @@ para correr el codigo fuente se usa el comando
 
 `node index.js`
 
+para ver el proyecto en linea
+[half-life](https://proyecto-final-graficas-hl.web.app/)
+
 Los pasos para hacer esta escena fueron
 # 1
 Crear la escena completa en blender, junto con sus texturas.
