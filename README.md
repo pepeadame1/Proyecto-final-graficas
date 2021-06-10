@@ -10,6 +10,8 @@ Format: ![Alt Text](url)
 Cargar la escena de blender a three js usando el GLB loader.
 # 3
 Crear cajas usando como base los modelos importados.
+![Overlap de texturs](/images/green-overlap.png)
+Format: ![Alt Text](url)
 # 4
 Agregar las texturas a los objetos creados.
 # 5
