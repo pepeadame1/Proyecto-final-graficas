@@ -3,7 +3,7 @@ Nueva version de mi proyecto final de graficas computacionales, se cambio de rep
 
 para correr el codigo fuente se usa el comando
 
-`<addr>`node index.js
+`node index.js`
 
 Los pasos para hacer esta escena fueron
 # 1
