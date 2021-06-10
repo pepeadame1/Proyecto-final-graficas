@@ -8,6 +8,10 @@ para correr el codigo fuente se usa el comando
 para ver el proyecto en linea
 [half-life](https://proyecto-final-graficas-hl.web.app/)
 
+controles:
+click+drag para rotar la camara
+right click+drag para mover la camara
+
 Los pasos para hacer esta escena fueron
 # 1
 Crear la escena completa en blender, junto con sus texturas.
