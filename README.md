@@ -4,6 +4,8 @@ Nueva version de mi proyecto final de graficas computacionales, se cambio de rep
 Los pasos para hacer esta escena fueron
 # 1
 Crear la escena completa en blender, junto con sus texturas.
+![Escena en blender](/images/blender.png)
+Format: ![Alt Text](url)
 # 2
 Cargar la escena de blender a three js usando el GLB loader.
 # 3
